@@ -1,1 +1,4 @@
 venv/
+src/recognized/*.jpg
+src/recognized/*.jpeg
+src/recognized/*.png
