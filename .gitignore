@@ -1,3 +1,4 @@
+.vscode/
 venv/
 src/recognized/*.jpg
 src/recognized/*.jpeg
